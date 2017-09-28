@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.deps.json
+C:\Users\User\Desktop\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.runtimeconfig.json
+C:\Users\User\Desktop\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.dll
+C:\Users\User\Desktop\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.pdb
+C:\Users\User\Desktop\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.AssemblyInfo.cs
+C:\Users\User\Desktop\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.dll
+C:\Users\User\Desktop\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.pdb
+C:\Users\User\Desktop\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.deps.json
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.runtimeconfig.json
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.dll
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\bin\Debug\netcoreapp1.1\Lab_3.pdb
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.AssemblyInfo.cs
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.dll
+C:\Users\User\Desktop\Lab OOP\Lab_3\Lab_3\obj\Debug\netcoreapp1.1\Lab_3.pdb
